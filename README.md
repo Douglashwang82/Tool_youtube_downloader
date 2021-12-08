@@ -1,2 +1,8 @@
 # youtube_downloader
-simple_downloader
+
+Packages:
+ - pytube
+ - os
+
+Usage:
+### "python yt_downloader.py"
